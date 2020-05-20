@@ -7,7 +7,7 @@ The following is an updated Assignment06 link, reorganizing legacy code using in
 [May 20, 2020: Assignment06](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.py)
 
 
-Inital upload of Assignment06, reorganizing starter code with additional functions
+Inital upload of Assignment06_old
 [May 20, 2020](https://github.com/cVarW/IntroToProg-Python-Mod06)
 
 
