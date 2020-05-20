@@ -1,14 +1,15 @@
-# Module06 Website 
---- 
+# Module06
+---
 
-[May 20, 2020: Assignment06 uploaded](https://github.com/cVarW/IntroToProg-Python-Mod06)
+Inital upload of Assignment06, reorganizing starter code with additional functions
+[May 30, 2020: Assignment06](https://github.com/cVarW/IntroToProg-Python-Mod06)
 
-[Created GitHub page for Assignments]
-# Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cVarW/IntroToProg-Python-Mod06/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
 
 ### Markdown
 
