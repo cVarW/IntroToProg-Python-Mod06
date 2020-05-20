@@ -1,10 +1,12 @@
 # Module06
 ---
 
-The following is an updated Assignment06 link, reorganizing legacy code using inherited funcion names.
-[May 20, 2020: Assignment06.docx](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.docx)
-[              Assignment06.py](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.py)
+The following is python Assignment 06: reorganizing legacy code using inherited funcion names.
+[May 20, 2020: Assignment06.py](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.py)
+Sample Data:
 [              ToDoList.txt](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/ToDoFile.txt)
+Documentation of work:
+[              Assignment06.docx](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.docx)
 
 
 
@@ -19,7 +21,9 @@ The following is an updated Assignment06 link, reorganizing legacy code using in
 
 
 
-[Link](url) and ![Image](src)
+
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
