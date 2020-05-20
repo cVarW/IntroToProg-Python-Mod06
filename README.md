@@ -1,14 +1,10 @@
 # Module06
 ---
 
-
-
 The following is an updated Assignment06 link, reorganizing legacy code using inherited funcion names.
 [May 20, 2020: Assignment06](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.py)
 
 
-Inital upload of Assignment06_old
-[May 20, 2020](https://github.com/cVarW/IntroToProg-Python-Mod06)
 
 
 
@@ -17,24 +13,9 @@ Inital upload of Assignment06_old
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
