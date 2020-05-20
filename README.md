@@ -1,11 +1,12 @@
 # Module06
 ---
 
-The following is python Assignment 06: reorganizing legacy code using inherited funcion names.
+## The following is python Assignment 06: reorganizing legacy code using inherited funcion names.
 [May 20, 2020: Assignment06.py](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.py)
-Sample Data:
+
+## Sample Data:
 [              ToDoList.txt](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/ToDoFile.txt)
-Documentation of work:
+## Documentation of work:
 [              Assignment06.docx](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.docx)
 
 
