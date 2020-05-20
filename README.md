@@ -3,10 +3,9 @@
 
 
 
-
-```
 Module 06
 The Following is python Assignment 06: reorganizing legacy code using inherited function names.
+
 Code file:
   [May 20, 2020: Assignment06.py](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.py)
 Sample Data:
