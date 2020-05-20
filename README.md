@@ -3,12 +3,12 @@
 
 
 
-Due to changes to the starter code, here is the updated Assignment06 link, reorganizing legacy code using inherited funcion names.
-[May 20, 2020: Assignment06]()
+The following is an updated Assignment06 link, reorganizing legacy code using inherited funcion names.
+[May 20, 2020: Assignment06](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.py)
 
 
 Inital upload of Assignment06, reorganizing starter code with additional functions
-[May 20, 2020: (old) Assignment06](https://github.com/cVarW/IntroToProg-Python-Mod06)
+[May 20, 2020](https://github.com/cVarW/IntroToProg-Python-Mod06)
 
 
 
