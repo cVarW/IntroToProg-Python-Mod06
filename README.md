@@ -3,8 +3,8 @@
 
 The following is an updated Assignment06 link, reorganizing legacy code using inherited funcion names.
 [May 20, 2020: Assignment06.docx](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.docx)
-[              Assignment06.py]
-[              ToDoList.txt]
+[              Assignment06.py](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.py)
+[              ToDoList.txt](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/ToDoList.txt)
 
 
 
