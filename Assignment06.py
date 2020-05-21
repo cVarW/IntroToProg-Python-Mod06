@@ -52,7 +52,7 @@ class Processor:
         :param task: (string)
         :param priority: (string)
         :return: lstTable
-                """
+        """
         row = {"Task": task, "Priority": priority}
         list_of_rows.append(row)
         return list_of_rows, 'Success'
