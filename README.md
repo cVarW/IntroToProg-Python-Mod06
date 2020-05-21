@@ -1,9 +1,9 @@
-# Intro To Python
+# Module 06 Website
 ---
 
 
 
-Module 06
+
 The Following is python Assignment 06: reorganizing legacy code using inherited function names.
 
 - Code file:
