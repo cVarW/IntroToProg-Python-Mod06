@@ -11,7 +11,7 @@ The following is my python Assignment 06: reorganizing legacy code using inherit
 - Sample Data:
 [              ToDoList.txt](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/ToDoFile.txt)
 - Documentation of work:
-[              Assignment06.docx](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.docx)
+[              Assignment06.pdf](https://github.com/cVarW/IntroToProg-Python-Mod06/blob/master/Assignment06.pdf)
 
 
 
