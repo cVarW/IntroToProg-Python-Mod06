@@ -7,7 +7,14 @@
 # ChangeLog (Who,When,What):
 # RRoot,1.1.2030,Created started script
 # RRoot,1.1.2030,Added code to complete assignment 5
-# CWei,2020.05.20,Modified code to complete assignment 6
+# CWei, 2020.05.16, relocated IO functions and testing for adding and removing data
+# CWei, 2020.05.17, relocated add & remove data to Processing class
+# CWei, 2020.05.18, tested then relocated write data to file, tested again
+# CWei, 2020.05.19, adjusted new starter code with new functions and callers
+# CWei, 2020.05.20, debugged code, fixed loops and comments
+# CWei,2020.05.23, fixed comment lines in classes and main source
+#                   I'm ok with keeping the 'continue' statement, so
+#                   I left it in the code
 # ---------------------------------------------------------------------------- #
 
 # Data ---------------------------------------------------------------------- #
@@ -45,7 +52,7 @@ class Processor:
 
     @staticmethod
     def add_data_to_list(task, priority, list_of_rows):
-        # TODO: Added new function 05.19.20
+        # Added new function 05.19.20
         """
         Add new item to lstTable
 
@@ -59,7 +66,7 @@ class Processor:
 
     @staticmethod
     def remove_data_from_list(task, list_of_rows):
-        # TODO: Added new function 05.19.20
+        # Added new function 05.19.20
         """
         If Item is found in current list, lstTable. 1st matching
             item will be removed. Else, return 'Item not found'
@@ -84,7 +91,7 @@ class Processor:
 
     @staticmethod
     def write_data_to_file(file_name, list_of_rows):
-        # TODO: Added new function 05.19.20
+        # Added new function 05.19.20
         """
         Desc -Reads data from th list of dictionaries into a file
 
@@ -163,7 +170,7 @@ class IO:
 
     @staticmethod
     def input_new_task_and_priority():
-        # TODO: Added new function 05.19.20
+        # Added new function 05.19.20
         """
          Ask user for new task and priority
          :param task: (string)
@@ -177,7 +184,7 @@ class IO:
 
     @staticmethod
     def input_task_to_remove():
-        # TODO: Added new function 05.19.20
+        # Added new function 05.19.20
         """
         If Item is found in current list, lstTable. 1st matching
             item will be removed. Else, return 'Item not found'
@@ -203,14 +210,14 @@ while (True):
 
     # Step 4 - Process user's menu choice
     if strChoice.strip() == '1':  # Add a new Task
-        # TODO: Added new caller 05.20.20
+        # Added new caller 05.20.20
         (strTask, strPriority) = IO.input_new_task_and_priority()   # Assign arguments to strTask & strPriority
         Processor.add_data_to_list(strTask, strPriority, lstTable)
         IO.input_press_to_continue(strStatus)
         continue  # to show the menu
 
     elif strChoice == '2':  # Remove an existing Task
-        # TODO: Added new caller 05.20.20
+        # Added new caller 05.20.20
         (strTaskKey) = IO.input_task_to_remove()
         Processor.remove_data_from_list(strTaskKey, lstTable)
         IO.input_press_to_continue(strStatus)
@@ -219,7 +226,7 @@ while (True):
     elif strChoice == '3':  # Save Data to File
         strChoice = IO.input_yes_no_choice("Save this data to file? (y/n) - ")
         if strChoice.lower() == "y":
-            # TODO: Added new caller 05.20.20
+            # Added new caller 05.20.20
             Processor.write_data_to_file(strFileName, lstTable)
             IO.input_press_to_continue(strStatus)
         else:
@@ -230,7 +237,7 @@ while (True):
         print("Warning: Unsaved Data Will Be Lost!")
         strChoice = IO.input_yes_no_choice("Are you sure you want to reload data from file? (y/n) -  ")
         if strChoice.lower() == 'y':
-            # TODO: Added new caller 05.20.20
+            # Added new caller 05.20.20
             Processor.read_data_from_file(strFileName, lstTable)
             IO.input_press_to_continue(strStatus)
         else:
